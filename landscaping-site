@@ -1,0 +1,6 @@
+landscaping-site/
+  index.html
+  package.json
+  src/
+    main.jsx
+    App.jsx
